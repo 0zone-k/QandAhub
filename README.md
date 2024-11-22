@@ -18,7 +18,7 @@ Q&Ahub
 # 実装予定の機能
 
 # データベース設計
-[![Image from Gyazo](https://i.gyazo.com/985e7841fed47f3487b315e17dbb0795.png)](https://gyazo.com/985e7841fed47f3487b315e17dbb0795)
+[![Image from Gyazo](https://i.gyazo.com/4f2a0b465ffaa000843f6a40bcde6b36.png)](https://gyazo.com/4f2a0b465ffaa000843f6a40bcde6b36)
 
 # 画面遷移図
 [![Image from Gyazo](https://i.gyazo.com/c4feac804c1bc21546c519e30cb84646.png)](https://gyazo.com/c4feac804c1bc21546c519e30cb84646)
